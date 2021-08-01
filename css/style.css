@@ -13,7 +13,6 @@ html{
   align-items: center;
   height: 100%;
   padding-top: 2%;
-  
 }
 
 .hero-img{
@@ -53,8 +52,7 @@ html{
 }
 
 .linkedin{
-    width: 7%;
-   
+    width: 7%;   
 }
 
 .visit{
@@ -69,14 +67,18 @@ html{
     border-style: none;
 }
 
-
 @media (max-width: 575.98px) {
     .img-thumbnail{ 
         width: 50%;        
     }
     
     .linkedin{
-        width: 15%;
-      
+        width: 15%;  
+    }
+    .porto{
+        margin-top: -150px;
+    }
+    .resume{
+        width: 100px;
     }
  }
