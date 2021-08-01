@@ -31,6 +31,8 @@ html{
 
 .card{
     margin-top: 5%;
+    background-color: black;
+    color: white;
 }
 
 .about{
